@@ -24,3 +24,4 @@ You will get a list of all entrances in the entrance list and their distance (in
 (-1411, 0, 330) is 267.0280884101895 away
 (-1034, 120, 394) is 219.68386376791537 away
 ```
+From here you just CTRL+F the entrance in the [Google Sheet of entrances](https://docs.google.com/spreadsheets/d/1SLJzamokLb7wDOaJh5x8DsxmMBy9oIYawyDN3dAWppw/edit#gid=125184608) and see which one it belongs to.
